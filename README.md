@@ -1,3 +1,3 @@
-# jtrawinski.github.io
+# JP Trawinski's Projects
 
-test
+[Write-up on Principal Components Analysis](https://jtrawinski.github.io/PCA.html)
